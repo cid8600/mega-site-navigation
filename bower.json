@@ -1,6 +1,6 @@
 {
-  "name": "mega-site-navigation",
-  "version": "1.2.3",
+  "name": "mega-nav",
+  "version": "1.0.0",
   "description": "A responsive and easy to customize navigation for mega-sites, enriched by subtle CSS animations and support for devices with javascript disabled",
   "main": [
     "js/main.js",
