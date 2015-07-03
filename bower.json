@@ -4,7 +4,7 @@
   "description": "A responsive and easy to customize navigation for mega-sites, enriched by subtle CSS animations and support for devices with javascript disabled",
   "main": [
     "js/main.js",
-    "sass/style.scss"
+    "sass/style.scss",
   ],
   "dependencies": {
   },
@@ -18,5 +18,8 @@
   "authors": [
     "http://codyhouse.co/gem/css-mega-site-navigation/"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
 }
