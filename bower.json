@@ -1,0 +1,22 @@
+{
+  "name": "mega-site-navigation",
+  "version": "1.2.3",
+  "description": "A responsive and easy to customize navigation for mega-sites, enriched by subtle CSS animations and support for devices with javascript disabled",
+  "main": [
+    "js/main.js",
+    "sass/style.scss"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "navigation",
+    "mega",
+    "codyhouse"
+  ],
+  "authors": [
+    "http://codyhouse.co/gem/css-mega-site-navigation/"
+  ],
+  "license": "MIT"
+}
